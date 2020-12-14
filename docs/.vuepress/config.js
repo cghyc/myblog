@@ -1,6 +1,7 @@
 module.exports = {
   title: 'cgh_yc的博客',
   description: '专注前端技术栈分享',
+  base: '/', // 这是部署到github相关的配置
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
